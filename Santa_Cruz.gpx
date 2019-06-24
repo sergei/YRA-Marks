@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="36.953666667" lon="-121.988166667">
+    <time>2019-06-05T07:56:50Z</time>
+    <name>BLACK</name>
+    <desc>Unmarked yellow ball </desc>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5ef9c64e-c094-4533-b923-d6a344a7ed23</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.957833333" lon="-122.012000000">
+    <time>2019-06-05T07:58:56Z</time>
+    <name>GOV</name>
+    <desc>Large white metal ball marked “CG” </desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3c30d85d-5599-4152-9da2-72ad69c42326</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.960393333" lon="-122.000760000">
+    <time>2019-06-05T08:09:33Z</time>
+    <name>HARBOR</name>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0e06bfdb-ba3b-4d78-b9d0-bded2ada9b5a</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.944666667" lon="-122.039000000">
+    <time>2019-06-05T08:01:43Z</time>
+    <name>MC</name>
+    <desc>Mitchell Cove (MC) Unmarked yellow ball 
+</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>04fb844d-3956-4b8d-9934-39611a0e3767</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.939166667" lon="-122.012000000">
+    <time>2019-06-05T07:58:56Z</time>
+    <name>MILE</name>
+    <desc>Large RW “SC” WHISTLE buoy</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3c30d85d-5599-4152-9da2-72ad69c42326</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.942833333" lon="-122.062166667">
+    <time>2019-06-05T07:58:56Z</time>
+    <name>NB</name>
+    <desc>Natural Bridges Unmarked yellow ball 
+
+</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3c30d85d-5599-4152-9da2-72ad69c42326</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.956000000" lon="-121.951166667">
+    <time>2019-06-21T16:58:21Z</time>
+    <name>REEF</name>
+    <desc>Orange Cylinder marked “Mile Reef” </desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1ba4743a-9395-488b-ad38-9cd93adda5b1</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.939333333" lon="-121.966833333">
+    <time>2019-06-05T08:04:43Z</time>
+    <name>SC3T</name>
+    <desc>TEMPORARY MARK Yellow painted fender </desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4a599542-7ead-43e0-827c-a14042f13e45</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.916833333" lon="-121.950000000">
+    <time>2019-06-21T16:58:21Z</time>
+    <name>SC4</name>
+    <desc>Yellow cylinder marked “SC4”</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1ba4743a-9395-488b-ad38-9cd93adda5b1</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.943166667" lon="-122.016666667">
+    <time>2019-06-05T08:05:44Z</time>
+    <name>SC7</name>
+    <desc>Yellow cylinder marked “SC7” 
+</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>19560bd4-c044-4e78-a342-02740dcff38d</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.950666667" lon="-121.994500000">
+    <time>2019-06-05T07:58:56Z</time>
+    <name>START</name>
+    <desc>Unmarked yellow ball 
+</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3c30d85d-5599-4152-9da2-72ad69c42326</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+  <wpt lat="36.947666667" lon="-122.021000000">
+    <time>2019-06-05T08:01:43Z</time>
+    <name>WHARF</name>
+    <desc>Unmarked yellow ball</desc>
+    <sym>triangle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>04fb844d-3956-4b8d-9934-39611a0e3767</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+    </extensions>
+  </wpt>
+</gpx>
